@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace C__Basics
 {
+    //game number
     public class Gaming
     {
         public void game()
